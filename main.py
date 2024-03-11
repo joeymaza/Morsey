@@ -1,12 +1,4 @@
-# from morse3 import Morse as m
-#
-#
-# text=input('Type your text:')
-# output = m(text).stringToMorse()
-# string_convert = m(output).morseToString()
-#
-# print(output)
-# print(string_convert)
+
 
 
 MORSE_CODE_DICT = {
